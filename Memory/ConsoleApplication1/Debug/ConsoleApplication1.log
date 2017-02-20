@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\desktop\study-c++\study-cpp\메모리 릭 탐지 만들기 1단계\consoleapplication1\consoleapplication1.cpp(50): warning C4715: 'Alloc<int>': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\user\desktop\study-c++\study-cpp\메모리 릭 탐지 만들기 1단계\consoleapplication1\consoleapplication1.cpp(50): warning C4715: 'Alloc<char>': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\user\desktop\study-c++\study-cpp\메모리 릭 탐지 만들기 1단계\consoleapplication1\consoleapplication1.cpp(50): warning C4715: 'Alloc<float>': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\Study-C++\Study-Cpp\메모리 릭 탐지 만들기 1단계\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\Study-C++\Study-Cpp\메모리 릭 탐지 만들기 1단계\Debug\ConsoleApplication1.pdb (Full PDB)
