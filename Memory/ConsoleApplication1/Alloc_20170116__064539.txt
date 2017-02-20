@@ -1,0 +1,5 @@
+ARRAY [49ffd5e0] [        40] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 15
+NOALLOC [49ffd5e0]
+LEAK [49ff3150] [         4] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 13
+LEAK [49ff3190] [         4] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 14
+LEAK [49ffd5e0] [        40] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 15

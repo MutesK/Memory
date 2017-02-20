@@ -1,0 +1,3 @@
+ARRAY [c2112470] [        40] c:\users\user\desktop\study-c++\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 15
+LEAK [c2107500] [         4] c:\users\user\desktop\study-c++\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 13
+LEAK [c2107540] [         4] c:\users\user\desktop\study-c++\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 14

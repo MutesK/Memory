@@ -1,0 +1,3 @@
+ARRAY [814a3190] [        40] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 15
+LEAK [814ace60] [         4] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 13
+LEAK [814a3150] [         4] c:\users\jmute\documents\github\study-cpp\메모리 2단계\consoleapplication1\consoleapplication1.cpp : 14
